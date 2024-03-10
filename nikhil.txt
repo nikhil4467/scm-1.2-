@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my new file of scm
+=======
+hello everyone
+>>>>>>> 26411925d52c5eecb5d710e0953f1cbe9cac6556
